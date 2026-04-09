@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical2", "Practical2\Practical2.csproj", "{D84955C3-C545-4604-88E6-C3A221DCA324}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical2_Events_ClimateControl", "Practical2_Events_ClimateControl\Practical2_Events_ClimateControl.csproj", "{6466560F-098D-4942-A6C4-0CD24D6C009D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D84955C3-C545-4604-88E6-C3A221DCA324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D84955C3-C545-4604-88E6-C3A221DCA324}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D84955C3-C545-4604-88E6-C3A221DCA324}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D84955C3-C545-4604-88E6-C3A221DCA324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6466560F-098D-4942-A6C4-0CD24D6C009D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6466560F-098D-4942-A6C4-0CD24D6C009D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6466560F-098D-4942-A6C4-0CD24D6C009D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6466560F-098D-4942-A6C4-0CD24D6C009D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B6CF7D62-585D-4CC0-9AF0-5B0AD0D33E89}
+		SolutionGuid = {19E4BCE4-5C8B-4DCC-BCC0-74710A3355B0}
 	EndGlobalSection
 EndGlobal
